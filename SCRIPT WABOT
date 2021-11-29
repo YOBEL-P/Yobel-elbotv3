@@ -1,0 +1,36 @@
+# Yobel-elbotv3
+Script wabot simple
+
+ Assalamualaikum,Shalom,Om santiyastu dan salam kebajikan
+ untuk sesion kali ini aku akan membuat kalimat
+ untuk script wabot yg sudah lazim di gunakan oleh cteator
+ dengan menggunakan teknik sesion <pkg>,moga bermamfaat.
+
+# USER TERMUX
+
+> pkg update && pkg upgrade
+
+> pkg intall git
+
+> pkg install node js
+
+> pkg install FFMPEG
+
+> pkg install imagemagick
+
+> git cloning https://github.com/YOBEL-P/yobel-elbotv3
+
+> cd Wabot YOBEL-P/yobel-elbotv3
+
+> npm install
+
+> npm start
+
+# RUN
+
+>bash instal.sh
+
+> node. <sesion name optional>
+
+
+
