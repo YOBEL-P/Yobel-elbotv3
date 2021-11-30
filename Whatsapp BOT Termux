@@ -1,0 +1,88 @@
+# Yobel-elbotv3
+README.md
+
+♛ KATA PENGANTAR
+☞ Assalamalaikum wr.wb,Shalom,Om Santiyastu
+   Dan Salam Kebajikan Pertama² terima kasih
+   pada teman,rekan semua yg telah mendukung
+   memberikan suppportnya kpd saya untuk membuat
+   skript ini waalaupun kurang sepurna akan dalam
+   pembuatanya tapi tetap di bentuk untuk
+   menyempurnakan sesi² dari kalimat² yg ada 
+   dalam program termux tersebut,biarlah Tuhan
+   yg menyempurnakan serta kedepannya bisa lebih
+   baik dan berguna. Terima kasih juga buat teman,
+   rekan² ygg telah menyempatkan diri untuk melihat
+   atau menggunakan skrip ini. Semoga kita semua
+   sehat  selalu dan dalam lindungan Tuhan yg
+   Maha Esa Akhir kata Wasalamualaikum wr.wb
+   Shalom,Om santiyastu dan Salam Kebajika...Amin
+
+# MATERIAL FOR TERMUX
+☞ Cepat,Simple DAN Agak Kaku
+
+# SPESIAL GRUP
+
+☞ com.whatsapp
+   clik here
+☞ com.instagram
+   click here
+
+# RAILWAY
+
+☞ railway.app
+   click here
+☞ deploy railway.app
+   clik here
+
+# RESTAPI
+
+☞ deploy to heroku.app.comm
+   click here
+☞ https://api-Yobel-elbotv3.herokuapp.com
+   click here
+
+# FILE EDIT
+
+☞ config-js
+   click here
+☞ monggodb.app
+   click here
+
+# TERMUX
+
+☞ Skript Whatsapp-Bot
+
+➣ pkg update && pkg update
+➣ pkg install git
+➣ pkg nodejs
+➣ pkg install FFMPEG
+➣ pkg install imagemagick
+
+➣ git clone https://github.com/YOBEL-P/Yobel-elbotv3.git
+➣ cd wabot Yobel-elbotv3.git
+➣ npm install
+➣ npm start
+
+# RUN
+
+➣ bash install.sh
+➣ node.<username|sesion optional>
+
+# VPS,UPS,RDP,LINUX PROMPT
+
+➣ unduh dan install git clone.app
+   click here
+➣ unduh dan install node.js
+   click here
+➣ unduh dan install FFMPEG
+   click here
+➣ unduh dan install imagemagick
+   click here
+
+➣ cd wabot Yobel-elbotv3.git
+➣ npm install
+
+Just Material For Study
+©coorporated by:@ Yobel-P/Yobel-elbotv3
+
