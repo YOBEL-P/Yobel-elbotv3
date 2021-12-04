@@ -18,68 +18,83 @@ wasalamualaikum wr.wb,Shalom,Om Santiyastu dan Salam kebajikan..Amin
   simple dan agak lemot
 
 # GRUP SPESIAL
-  whatsapp.com
-  click here
 
-  instagram.com
-  click here
+  ✒ whatsapp.com
+     click here
+
+  ✒ instagram.com
+     click here
 
 # RAILWAY
 
-  railway.app
-  click here
+  ✒ railway.app
+     click here
 
-  deploy on railway
-  click here
+  ✒ deploy on railwayapp
+     click here
 
 # REST API
 
-  deploy to herokuapp.com
-  click here
+  ✒deploy to herokuapp.com
+    click here
 
 # FILE EDIT
 
-  config.js
-  click here
+  ✒ config.js
+    click here
 
-  monggodb.com
-  click here
+  ✒ monggodb.com
+     click here
 
 # TERMUX
 
   Script wabot
 
-  > pkg update && pkg upgrade
-  > pkg install node.js
-  > pkg install git
-  > pkg install FFMPEG
-  > pkg install imagemagick
-  > git clone https://github.com/
-    yobel-elbotv3.git
-  > cd wabot yobel-elbotv3
-  > npm install
-  > npm start
+  ✒ pkg update && pkg upgrade
+
+  ✒ pkg install node.js
+
+  ✒ pkg install git
+
+  ✒ pkg install FFMPEG
+
+  ✒ pkg install imagemagick
+
+  ✒ git clone https://github.com/
+    YOBEL-P/yobel-elbotv3
+
+  ✒ cd yobel-elbotv3
+
+  ✒ npm install
+
+  ✒ npm start
 
 # RUN
 
-  > bash install.sh
-  > node.index
+  ✒ bash install.sh
 
-# RDP,VPS,UPS,LINUX
+  ✒ node.index
 
-  > unduh dan install gut clone.app.com
+# RDP,VPS,UPS
+
+  ✒ unduh dan install gut clone.app.com
+
     click here
 
-  > unduh dan install node.js
+  ✒ unduh dan install node.js
+
     click here
 
-  > unduh dan install FFMPEG
+  ✒ unduh dan install FFMPEG
+
     click here
 
-  > unduh dan install imagemagick
+  ✒ unduh dan install imagemagick
+
     click here
 
-  > cd wabot yobel-elbotv3
-  > npm install
+  ✒ cd Yobel-elbotv3
 
-# JUST FOR STUDY ©corporated by:elbotv3
+  ✒ npm install
+
+# JUST FOR STUDY ©coorporated by:elbotv3
