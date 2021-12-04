@@ -1,6 +1,3 @@
-# Yobel-elbotv3
-Script wabot simple
-
 # README.md
 
 Assalamualaikum wr.wb,Shalom,Om Santiyastu dan Salam Kebajikan
@@ -35,13 +32,17 @@ wasalamualaikum wr.wb,Shalom,Om Santiyastu dan Salam kebajikan..Amin
 
 # REST API
 
-  ✒deploy to herokuapp.com
-    click here
+  ✒ deploy to herokuapp.com
+     click here
+
+  ✒ https://www.heroku.com/Home
+
+  ✒ https://devcenter.heroku.com/start
 
 # FILE EDIT
 
   ✒ config.js
-    click here
+     click here
 
   ✒ monggodb.com
      click here
@@ -61,7 +62,9 @@ wasalamualaikum wr.wb,Shalom,Om Santiyastu dan Salam kebajikan..Amin
   ✒ pkg install imagemagick
 
   ✒ git clone https://github.com/
-    YOBEL-P/yobel-elbotv3
+     YOBEL-P/yobel-elbotv3
+
+  ✒ sd/sdcard
 
   ✒ cd yobel-elbotv3
 
@@ -78,20 +81,16 @@ wasalamualaikum wr.wb,Shalom,Om Santiyastu dan Salam kebajikan..Amin
 # RDP,VPS,UPS
 
   ✒ unduh dan install gut clone.app.com
-
-    click here
+     click here
 
   ✒ unduh dan install node.js
-
-    click here
+     click here
 
   ✒ unduh dan install FFMPEG
-
-    click here
+     click here
 
   ✒ unduh dan install imagemagick
-
-    click here
+     click here
 
   ✒ cd Yobel-elbotv3
 
