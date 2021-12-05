@@ -37,7 +37,7 @@ wasalamualaikum wr.wb,Shalom,Om Santiyastu dan Salam kebajikan..Amin
   ✒ deploy to herokuapp.com
      click here
 
-  ✒ https://api.github.com/YOBEL-P/Yobeel-elbotv3
+  ✒ https://api.github.com/YOBEL-P/Yobel-elbotv3
 
 # FILE EDIT
 
